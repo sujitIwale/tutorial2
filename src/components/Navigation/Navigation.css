@@ -1,0 +1,35 @@
+
+
+
+
+
+
+li  {
+	display: inline;
+	display: block;
+	
+	padding: 10px;
+	float: left;
+
+}
+ button  {
+	
+	color :black;
+	padding: 1%;
+	display: inline-flex;
+
+}
+li a:hover {
+	background-color: #111;
+}
+
+.pad {
+    display: flex;
+    padding: 2% ;
+    color: blueviolet;
+
+}
+
+.sign {
+    color: cornflowerblue;
+}
